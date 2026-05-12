@@ -13,6 +13,7 @@ results/
 ├── max_len512/
 ├── bottomleft.pdf
 ├── bottomright.pdf
+├── centerbottom.pdf
 ├── centercenter.pdf
 ├── topleft.pdf
 └── topright.pdf
@@ -20,12 +21,13 @@ results/
 
 ## Poster Panels
 
-The PDF files correspond to individual panels printed and assembled for the poster in `poster/Training Knowledge Distillation.pdf`, named by their position:
+The PDF files correspond to individual panels printed and assembled for poster in `poster/Training Knowledge Distillation.pdf`, named by their position on the poster:
 
 | File | Position |
 |---|---|
 | `topleft.pdf` | Top-left panel |
 | `topright.pdf` | Top-right panel |
+| `centerbottom.pdf` | Center-bottom panel |
 | `centercenter.pdf` | Center panel |
 | `bottomleft.pdf` | Bottom-left panel |
 | `bottomright.pdf` | Bottom-right panel |
